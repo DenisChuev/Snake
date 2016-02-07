@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Змейка</string>
+    <string name="pause">Пауза</string>
+    <string name="play">Играть</string>
+    <string name="refresh">Новая игра</string>
+    <string name="score">Очки:</string>
+    <string name="best_score">Рекорд: </string>
+    <string name="win">Вы победили!</string>
+</resources>

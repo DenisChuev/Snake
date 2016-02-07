@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_play_pause"
+        android:icon="@drawable/ic_action_pause"
+        android:orderInCategory="2"
+        android:title="@string/pause"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_action_refresh"
+        android:orderInCategory="1"
+        android:title="@string/refresh"
+        app:showAsAction="ifRoom" />
+</menu>
